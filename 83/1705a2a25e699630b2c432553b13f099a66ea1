@@ -1,0 +1,23 @@
+src/App.tsx
+  s_dc9e67dbbabc0a::t_7ecdd0b485e305 6
+vite.config.ts
+  s_dc9e67dbbabc0a::t_2759d775e2e216 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "831705a2a25e699630b2c432553b13f099a66ea1",
+  "prompts": {},
+  "sessions": {
+    "s_dc9e67dbbabc0a": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3140215f48e30615456c68",
+        "model": "gpt-5.4__dev"
+      },
+      "human_author": "zjnaa <zhangjingna2006@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
